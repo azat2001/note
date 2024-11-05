@@ -3,6 +3,6 @@ cssclasses:
   - dashboard
 ---
 
-|     |     |
-| --- | --- |
-|     |     |
+---
+
+
