@@ -6,4 +6,5 @@ cssclass: dashboard
 
 
 # Заметки
--М
+- Майнкрафта
+- 
