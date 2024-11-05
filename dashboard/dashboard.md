@@ -7,5 +7,5 @@ cssclass: dashboard
 
 # Заметки
 - Майнкрафта
- - {{seed
- - servers
+ - [[seed]]
+ - [[servers]]
