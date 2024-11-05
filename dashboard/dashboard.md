@@ -13,11 +13,7 @@ cssclass: dashboard
 
 ## Задачи
 
-- [ ] Задача 1
-- [x] Задача 2
-- [ ] Задача 3
+
 
 ## Важные ссылки
 
-[Google](https://www.google.com)
-[GitHub](https://github.com)
