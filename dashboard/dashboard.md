@@ -1,9 +1,8 @@
 ---
-cssclass:dashboard
+
+cssclass: dashboard
+
 ---
-
-
-
 
 
 # Заметки
