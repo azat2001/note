@@ -6,6 +6,7 @@
 	],
 	"edges":[
 		{"id":"310cef5acb863a88","fromNode":"14c666a5d51425af","fromSide":"right","toNode":"08bf240a7162a0b4","toSide":"left"},
-		{"id":"368ef9c28f898081","fromNode":"08bf240a7162a0b4","fromSide":"right","toNode":"61d4e6c4a730aa78","toSide":"left"}
+		{"id":"368ef9c28f898081","fromNode":"08bf240a7162a0b4","fromSide":"right","toNode":"61d4e6c4a730aa78","toSide":"left"},
+		{"id":"3e5fdd36f25477d6","fromNode":"61d4e6c4a730aa78","fromSide":"bottom","toNode":"14c666a5d51425af","toSide":"bottom"}
 	]
 }
