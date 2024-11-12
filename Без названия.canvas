@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"14c666a5d51425af","type":"file","file":"text/2.md","x":-1132,"y":-392,"width":400,"height":400,"color":"4"},
+		{"id":"14c666a5d51425af","type":"file","file":"text/Математика.md","x":-1132,"y":-392,"width":400,"height":400,"color":"4"},
 		{"id":"61d4e6c4a730aa78","type":"file","file":"text/6.md","x":-292,"y":-392,"width":400,"height":400,"color":"4"},
 		{"id":"08bf240a7162a0b4","type":"file","file":"text/4.md","x":-712,"y":-392,"width":400,"height":400,"color":"4"}
 	],
